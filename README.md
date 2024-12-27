@@ -35,5 +35,5 @@ Our primary goal is to develop a robust statistical learning model to:
 The repository includes:
 Two detailed technical milestones and intermidiate results
 - 1. [Project Documentation_1milestone](https://github.com/marinazanoni/Improving-Urban-Living-Predictive-Modeling-of-Waste-Complaints-in-Rome/blob/main/SL2024---1st-milestone-1.html))
-  2. [Project Documentation_2milestone](https://github.com/marinazanoni/Improving-Urban-Living-Predictive-Modeling-of-Waste-Complaints-in-Rome/blob/main/SL2024---1st-milestone-2.html))
+- 2. [Project Documentation_2milestone](https://github.com/marinazanoni/Improving-Urban-Living-Predictive-Modeling-of-Waste-Complaints-in-Rome/blob/main/SL2024---1st-milestone-2.html))
 - [Final_results_presentation](https://github.com/marinazanoni/Improving-Urban-Living-Predictive-Modeling-of-Waste-Complaints-in-Rome/blob/main/SL%20Project%20Presentation%20(1).pptx)
