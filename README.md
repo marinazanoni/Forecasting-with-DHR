@@ -28,12 +28,12 @@ Our primary goal is to develop a robust statistical learning model to:
 -[Open Data website](https://www.comune.roma.it/web/it/partecipa-portale-open-data.page)
 -[Raw source of data](https://dati.comune.roma.it/catalog/dataset/crm2024)
 - Breiman, L., Friedman , J. H., OlLshen , R. A. and Stone , C.B. (1984). Classification and Regression Trees. Wadsworth, Belmont
--Ta-Hsin Li and Melvin J. Hinich (2002). A Filter Bank Approach for Modeling and Forecasting Seasonal Patterns. Technometrics, 44, pp. 1-14
--Tom Vercauteren, Pradeep Aggarwal, Xiaodong Wang (2012) Tree models for difference and change detection in a complex environment. The Annals of Applied Statistics, 6, pp.1286-1297
--Rausch, T. M., Albrecht, T., & Baier, D. (2022). Beyond the beaten paths of forecasting call center arrivals: On the use of dynamic harmonic regression with predictor variables. Journal of Business Economics, 92, 675–706
+- Ta-Hsin Li and Melvin J. Hinich (2002). A Filter Bank Approach for Modeling and Forecasting Seasonal Patterns. Technometrics, 44, pp. 1-14
+- Tom Vercauteren, Pradeep Aggarwal, Xiaodong Wang (2012) Tree models for difference and change detection in a complex environment. The Annals of Applied Statistics, 6, pp.1286-1297
+- Rausch, T. M., Albrecht, T., & Baier, D. (2022). Beyond the beaten paths of forecasting call center arrivals: On the use of dynamic harmonic regression with predictor variables. Journal of Business Economics, 92, 675–706
 
 The repository includes:
 Two detailed technical milestones and intermidiate results
-- 1. [Project Documentation_1milestone](https://github.com/marinazanoni/Improving-Urban-Living-Predictive-Modeling-of-Waste-Complaints-in-Rome/blob/main/SL2024---1st-milestone-1.html))
-- 2. [Project Documentation_2milestone](https://github.com/marinazanoni/Improving-Urban-Living-Predictive-Modeling-of-Waste-Complaints-in-Rome/blob/main/SL2024---1st-milestone-2.html))
+- 1. [Project Documentation_1milestone](https://github.com/marinazanoni/Improving-Urban-Living-Predictive-Modeling-of-Waste-Complaints-in-Rome/blob/main/SL2024---1st-milestone-1.html)
+- 2. [Project Documentation_2milestone](https://github.com/marinazanoni/Improving-Urban-Living-Predictive-Modeling-of-Waste-Complaints-in-Rome/blob/main/SL2024---1st-milestone-2.html)
 - [Final_results_presentation](https://github.com/marinazanoni/Improving-Urban-Living-Predictive-Modeling-of-Waste-Complaints-in-Rome/blob/main/SL%20Project%20Presentation%20(1).pptx)
