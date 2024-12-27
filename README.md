@@ -25,8 +25,8 @@ Our primary goal is to develop a robust statistical learning model to:
    - Practical applications for improving waste management systems, driving sustainability.
 
 ## **Explore More**
-- [Open Data website](https://www.comune.roma.it/web/it/partecipa-portale-open-data.page)
-- [Raw source of data](https://dati.comune.roma.it/catalog/dataset/crm2024)
+-[ Open Data website](https://www.comune.roma.it/web/it/partecipa-portale-open-data.page)
+-[ Raw source of data](https://dati.comune.roma.it/catalog/dataset/crm2024)
 - Breiman, L., Friedman , J. H., OlLshen , R. A. and Stone , C.B. (1984). Classification and Regression Trees. Wadsworth, Belmont
 - Ta-Hsin Li and Melvin J. Hinich (2002). A Filter Bank Approach for Modeling and Forecasting Seasonal Patterns. Technometrics, 44, pp. 1-14
 - Tom Vercauteren, Pradeep Aggarwal, Xiaodong Wang (2012) Tree models for difference and change detection in a complex environment. The Annals of Applied Statistics, 6, pp.1286-1297
