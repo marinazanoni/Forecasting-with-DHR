@@ -338,22 +338,3 @@ legend("topright", legend = c("Predetto", "Osservato","CI 95%"), col = c("blue",
 
 
 
-
-
-
-#commento da aggiungere:
-#magari lo abbiamo confuso noi con 1/6 gennaio che abbiamo inserito noi che sono festivi
-
-
-##################################
-##########AREA TEMATICA###########
-##################################
-
-
-
-
-
-
-
-
-
